@@ -1,6 +1,6 @@
 ---
-title: Criar e melhorar conteúdo de email com o Assistente de conteúdo
-description: Saiba como usar o assistente de conteúdo alimentado por IA gerativa para criar e aprimorar o conteúdo de email, otimizando suas entregas de email para ter melhor repercussão com seu público-alvo.
+title: Crie e melhore os conteúdos de email com o Assistente de conteúdo
+description: Saiba como usar o assistente de conteúdo com tecnologia de IA generativa para criar e aprimorar os conteúdos de email, otimizando suas entregas de email para uma melhor repercussão com seu público-alvo.
 feature: Email Design
 role: User
 level: Beginner
@@ -13,21 +13,21 @@ hidefromtoc: true
 hide: true
 badgeAlpha: label="Alfa" type="informative" before-title="true"
 source-git-commit: 678e0542f8d7b6d8c5b834b8fd3308391cfcb739
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Criar e melhorar conteúdo de email com o Assistente de conteúdo
+# Crie e melhore os conteúdos de email com o Assistente de conteúdo
 
-Saiba como usar o assistente de conteúdo alimentado por IA gerativa para criar e aprimorar o conteúdo de email, otimizando suas entregas de email para ter melhor repercussão com seu público-alvo.
+Saiba como usar o assistente de conteúdo com tecnologia de IA generativa para criar e aprimorar os conteúdos de email, otimizando suas entregas de email para uma melhor repercussão com seu público-alvo.
 
 >[!NOTE]
 >
-> No momento, esse recurso está disponível na versão para Alpha e está sujeito a alterações sem aviso prévio.
+> Esse recurso está disponível na versão Alpha e está sujeito a alterações sem aviso prévio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs.html).
+Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs.html?lang=pt-BR).
