@@ -4,10 +4,10 @@ description: O Adobe Campaign oferece uma plataforma para criar experiências do
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 6a3f3844cb5d835b79b1477a59add9c8aea3fe34
+source-git-commit: 93309841439c8d3fcd829b2f73418c66dd4cac11
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 79%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 79%
 
 O Adobe Campaign oferece uma plataforma para criar experiências do cliente em vários canais, além de um ambiente para orquestração visual de campanhas, gestão de interações em tempo real e cross-channel execution. Este guia do usuário contém vídeos e tutoriais sobre os recursos e as funcionalidades da interface da Web do Adobe Campaign. Novos vídeos são adicionados regularmente.
 
-A personalização da plataforma do Campaign com base nas necessidades de negócios e dados, assim como a conexão com outros sistemas, são gerenciadas no console do cliente do Campaign. Como consequência, alguns recursos e configurações só podem ser acessados, criados ou gerenciados no console do cliente do Campaign. Consulte o (Guia do console da Web e do cliente do Campaign)[https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html] para obter uma visão geral sobre as configurações e os recursos que serão usados no futuro.
+A personalização da plataforma do Campaign com base nas necessidades de negócios e dados, assim como a conexão com outros sistemas, são gerenciadas no console do cliente do Campaign. Como consequência, alguns recursos e configurações só podem ser acessados, criados ou gerenciados no console do cliente do Campaign. Consulte a [Guia do Console do cliente e da Web do Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html) para obter uma visão geral sobre as configurações e os recursos que serão usados no futuro.
 
 >[!INFO]
 > 
