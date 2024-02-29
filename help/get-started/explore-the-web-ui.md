@@ -8,10 +8,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-11-29T00:00:00Z
 jira: KT-14388
 thumbnail: 3427278.jpeg
-source-git-commit: b1e7e17f13b05776d4895dc20ad92d4b677c071c
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 74%
 
 ---
 
@@ -21,3 +21,5 @@ ht-degree: 100%
 Saiba como acessar e navegar na interface Campaign Web e personalizar as listas de inventário. Descubra o Assistente de conhecimento habilitado por IA.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+
+Consulte [Introdução à Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html) para obter mais informações sobre como navegar na interface da web do Campaign v8.
