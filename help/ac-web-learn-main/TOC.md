@@ -5,10 +5,10 @@ user-guide-title: Interface do Adobe Campaign Web
 user-guide-description: Saiba como usar os recursos e as funcionalidades da interface do Adobe Campaign Web.
 breadcrumb-title: Interface Web – Tutoriais
 auto-video-transcripts: true
-source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
+source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 88%
+source-wordcount: '96'
+ht-degree: 83%
 
 ---
 
@@ -26,6 +26,7 @@ ht-degree: 88%
 + Perfis e públicos-alvo {#profiles-and-audiences}
    + [Explore perfis](/help/profiles-and-audiences/explore-profiles.md)
    + [Gerenciar e criar públicos-alvo](/help/profiles-and-audiences/manage-and-build-audiences.md)
+   + [Criar um público-alvo com o Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
    + [Criar um fluxo de trabalho de direcionamento](/help/workflows/create-a-targeting-workflow.md)
 + [Tutoriais do console do cliente do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=pt-BR)
