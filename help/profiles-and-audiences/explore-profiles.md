@@ -1,6 +1,6 @@
 ---
-title: Explorar perfis na interface da Web do Adobe Campaign
-description: Saiba como acessar, gerenciar e explorar perfis usando a interface da Web do Campaign.
+title: Explore perfis na interface do Adobe Campaign Web
+description: Saiba como acessar, gerenciar e explorar perfis usando a interface do Campaign Web.
 feature: Profiles
 role: User
 level: Beginner
@@ -8,18 +8,17 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2024-02-13T00:00:00Z
 jira: KT-14390
-thumbnail: 3427293.jpeg
-source-git-commit: 29188c839c08ca46313c2d9ea1f50bee2083f14b
+source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 98%
 
 ---
 
 
-# Explorar perfis na interface da Web do Adobe Campaign
+# Explore perfis na interface do Adobe Campaign Web
 
-Saiba como acessar, gerenciar e explorar perfis usando a interface da Web do Campaign.
+Saiba como acessar, gerenciar e explorar perfis usando a interface do Campaign Web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
