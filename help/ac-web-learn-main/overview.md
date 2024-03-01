@@ -1,17 +1,17 @@
 ---
-title: Interface do Adobe Campaign Web
+title: Interface do usuário da Web do Adobe Campaign - Tutorials
 description: O Adobe Campaign oferece uma plataforma para criar experiências do cliente em vários canais, além de um ambiente para orquestração visual de campanhas, gestão de interações em tempo real e cross-channel execution. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades da interface do Adobe Campaign Web.
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
+source-git-commit: 74d78d04b6e7ad3c2f631a5f01a9bd5ff8061bd3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 71%
+source-wordcount: '271'
+ht-degree: 66%
 
 ---
 
-# Interface do Adobe Campaign Web
+# Interface do usuário da Web do Adobe Campaign - Tutorials
 
 O Adobe Campaign oferece uma plataforma para criar experiências do cliente em vários canais, além de um ambiente para orquestração visual de campanhas, gestão de interações em tempo real e cross-channel execution. Este guia do usuário contém vídeos e tutoriais sobre os recursos e as funcionalidades da interface da Web do Adobe Campaign. Novos vídeos são adicionados regularmente.
 
