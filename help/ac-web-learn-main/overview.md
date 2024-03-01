@@ -4,10 +4,10 @@ description: O Adobe Campaign oferece uma plataforma para criar experiências do
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 93309841439c8d3fcd829b2f73418c66dd4cac11
+source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '269'
+ht-degree: 71%
 
 ---
 
@@ -36,3 +36,10 @@ A personalização da plataforma do Campaign com base nas necessidades de negóc
 
 <div id="staff-picks-section">
 </div>
+
+## Experience League Eventos ao vivo
+
+* **[Avançando com a nova interface da Web do Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)**
+
+  *Saiba como planejar, iniciar e medir campanhas entre canais na nova experiência do usuário.*
+
