@@ -1,5 +1,5 @@
 ---
-title: Criar um público-alvo com o Experience Platform
+title: Criar um público-alvo com a Experience Platform
 description: Saiba como criar um destino para mapear um público-alvo Experience Platform para o Adobe Campaign.
 feature: Audiences
 role: User
@@ -11,12 +11,12 @@ jira: KT-14577
 source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 28%
 
 ---
 
 
-# Criar um público-alvo com o Experience Platform
+# Criar um público-alvo com a Experience Platform
 
 Saiba como criar um destino para usar um público-alvo Experience Platform no Adobe Campaign.
 
